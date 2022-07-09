@@ -2,7 +2,7 @@ from league import League
 
 # txt Files
 PREM_TXT = 'premteams.txt'
-LALIGA_TXT = 'premteams.txt'
+LALIGA_TXT = 'laligateams.txt'
 SERIE_TXT = 'serieteams.txt'
 BUNDESLIGA_TXT = 'bundesligateams.txt'
 
