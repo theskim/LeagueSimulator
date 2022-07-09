@@ -60,7 +60,7 @@ class League:
         else:
             self.addPoints(first, 3)
 
-    def simulateSeason(self) -> None:
+    def simulateSeason(self) -> str:
         """
             Simulate the season
         """
@@ -79,29 +79,29 @@ class League:
                 string: Current League table
 
             Examples:
-            >>> print(premierLeague)
+                >>> print(premierLeague)
 
-            ------- Table --------
-            1. Liverpool- 86
-            2. Manchester City - 84
-            3. Chelsea- 79
-            4. Tottenham Hotspur- 75
-            5. Manchester United- 65
-            6. Arsenal- 59
-            7. West Ham United- 54
-            8. Newcastle United- 54
-            9. Aston Villa- 52
-            10. Leicester City- 50
-            11. Brighton & Hove Albion- 50
-            12. Everton- 47
-            13. Wolverhampton- 42
-            14. A.F.C Bournemouth- 41
-            15. Leeds United- 39
-            16. Brentford- 38
-            17. Fulham- 38
-            18. Southampton- 33
-            19. Crystal Palace- 32
-            20. Nottingham Forest- 32
+                ------- Table --------
+                1. Liverpool- 86
+                2. Manchester City - 84
+                3. Chelsea- 79
+                4. Tottenham Hotspur- 75
+                5. Manchester United- 65
+                6. Arsenal- 59
+                7. West Ham United- 54
+                8. Newcastle United- 54
+                9. Aston Villa- 52
+                10. Leicester City- 50
+                11. Brighton & Hove Albion- 50
+                12. Everton- 47
+                13. Wolverhampton- 42
+                14. A.F.C Bournemouth- 41
+                15. Leeds United- 39
+                16. Brentford- 38
+                17. Fulham- 38
+                18. Southampton- 33
+                19. Crystal Palace- 32
+                20. Nottingham Forest- 32
         """
         
         self.clubs.sort(key=lambda row: (row[2]), reverse=True)
