@@ -1,0 +1,36 @@
+FC Augsburg
+63
+Hertha BSC
+64
+Union Berlin
+75
+VfL Bochum
+64
+Werder Bremen
+59
+Borussia Dortmund
+81
+Eintracht Frankfurt
+73
+SC Freiburg
+74
+1899 Hoffenheim
+65
+1. FC Köln
+71
+RB Leipzig
+78
+Bayer Leverkusen
+80
+Mainz 05
+69
+Borussia Mönchengladbach
+70
+Bayern Munich
+92
+Schalke 04
+61
+VfB Stuttgart
+65
+VfL Wolfsburg
+68

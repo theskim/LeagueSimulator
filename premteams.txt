@@ -1,0 +1,40 @@
+Manchester City 
+92
+Liverpool
+90
+Chelsea
+84
+Tottenham Hotspur
+83
+Arsenal
+78
+Manchester United
+79
+West Ham United
+72
+Leicester City
+71
+Brighton & Hove Albion
+70
+Wolverhampton
+68
+Newcastle United
+72
+Crystal Palace
+67
+Brentford
+64
+Aston Villa
+68
+Southampton
+66
+Everton
+68
+Leeds United
+66
+Fulham
+62
+A.F.C Bournemouth
+61
+Nottingham Forest
+60

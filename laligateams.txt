@@ -1,0 +1,40 @@
+Real Madrid
+90
+Barcelona
+82
+Atlético Madrid
+82
+Sevilla
+80
+Real Betis
+76
+Real Sociedad
+75
+Villarreal
+75
+Athletic Bilbao
+74
+Valencia
+71
+Osasuna
+68
+Celta Vigo
+67
+Rayo Vallecano
+65
+Elche
+63
+Espanyol
+61
+Getafe
+59
+Mallorca
+58
+Cádiz
+57
+Almería
+57
+Real Valladolid
+56
+Girona
+56

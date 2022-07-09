@@ -1,0 +1,40 @@
+Atalanta
+76
+Bologna
+65
+Cremonese
+57
+Empoli
+63
+Fiorentina
+75
+Inter Milan
+85
+Juventus
+85
+Lazio
+78
+Lecce
+57
+AC Milan
+86
+Monza
+58
+Napoli
+81
+AS Roma
+79
+Salernitana
+59
+Sampdoria
+64
+Sassuolo
+68
+Spezia
+63
+Torino
+71
+Udinese
+66
+Hellas Verona
+71
