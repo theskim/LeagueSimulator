@@ -15,7 +15,7 @@ class League:
         
     def addClub(self, name:str, rating:int) -> None:
         """
-            Append a club to the team
+            Append a club to the league
 
             Args:
                 name: the name of the team
@@ -71,12 +71,12 @@ class League:
                     self.matchEngine(i, j)
                     self.matchEngine(i, j)
 
-    def __str__(self) -> None:
+    def __str__(self) -> str:
         """
             Sort and Display the current league table
             
             Return:
-                string: Current League table
+                table: Current League table
 
             Examples:
                 >>> print(premierLeague)
