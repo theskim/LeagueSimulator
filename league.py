@@ -1,3 +1,4 @@
+from configparser import NoSectionError
 from random import randint
 
 class League:
@@ -60,7 +61,7 @@ class League:
         else:
             self.addPoints(first, 3)
 
-    def simulateSeason(self) -> str:
+    def simulateSeason(self) -> NoSectionError:
         """
             Simulate the season
         """
