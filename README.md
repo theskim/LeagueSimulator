@@ -18,9 +18,9 @@ Example:
         82
     
     leaguerunner.py
-    >>> from league import League
+    >>> from league import *
     >>> newLeague = League()
-    >>> addClubFromText(newLeague, "newLeague.txt")
+    >>> leagueInit(newLeague, "newLeague.txt")
     >>> newLeague.simulateSeason()
     >>> print(newLeague)
 

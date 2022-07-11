@@ -110,3 +110,21 @@ class League:
         for i in range(len(self.clubs)):
             table += str(i + 1) + ". " + str(self.clubs[i][0]) + "- " + str(self.clubs[i][2]) + "\n"
         return table
+    
+def leagueInit(league: League, fileName: str):
+    """
+        Read the text file, add the teams and ratings into League object
+
+        Args: 
+            league: League object
+            fileName: name of the file 
+    """
+
+    with open(fileName) as file_in:
+        index, name, line = 1, str(), str()
+        for line in file_in:
+            if index % 2:
+                name = line.replace('\n', '')
+            else:
+                league.addClub(name, int(line))
+            index += 1
